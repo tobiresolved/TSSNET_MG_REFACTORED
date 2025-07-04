@@ -1,0 +1,12 @@
+[deps]
+BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+Functors = "d9f16b24-f501-4c13-a1f2-28368ffc5196"
+Gurobi = "2e9cd046-0924-5485-92f1-d5272153d98b"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+MLUtils = "f1d291b0-491e-4a28-83b9-f70985020b54"
+Optimisers = "3bd65402-5787-11e9-1adc-39752487f4e2"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
